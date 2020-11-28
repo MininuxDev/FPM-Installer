@@ -15,7 +15,7 @@ Currently tested on Ubuntu, but should work across *all* distributions given the
 
 ## Arch based distros
 
-`sudo pacman -Sy gcc8 gcc8-libs`
+`sudo pacman -Sy gcc8 gcc8-libs llvm10`
 
 ## Ubuntu 20.04 based distros
 If running Ubuntu 20.04 or other distros based on it you must install this dep as well.
